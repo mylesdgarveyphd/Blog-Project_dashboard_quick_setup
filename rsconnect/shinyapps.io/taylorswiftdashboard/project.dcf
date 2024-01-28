@@ -1,0 +1,10 @@
+name: project
+title:
+username: taylorswiftdashboard
+account: taylorswiftdashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11050032
+bundleId: 8190209
+url: https://taylorswiftdashboard.shinyapps.io/project/
+version: 1
